@@ -1,0 +1,12 @@
+web-app/node_modules/
+web-app/dist/
+web-app/.playwright/
+web-app/*.tsbuildinfo
+references/
+output/
+publish/
+*.pdf
+*.pptx
+*.epro
+pcb-study-*.json
+.env*
